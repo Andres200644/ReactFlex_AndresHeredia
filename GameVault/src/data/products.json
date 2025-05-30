@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "title": "God of War Ragnarok",
+    "description": "Juego exclusivo de PS5 con gráficos impresionantes.",
+    "category": "PS5",
+    "price": 69.99,
+    "stock": 10,
+    "image": "/public/images/godofwar.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Spider-Man Miles Morales",
+    "description": "Aventura de superhéroes en mundo abierto.",
+    "category": "PS5",
+    "price": 49.99,
+    "stock": 15,
+    "image": "/public/images/spiderman.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Halo Infinite",
+    "description": "Shooter emblemático para consolas Xbox.",
+    "category": "XBOX",
+    "price": 59.99,
+    "stock": 8,
+    "image": "/public/images/halo.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Forza Horizon 5",
+    "description": "Carreras en mundo abierto para Xbox.",
+    "category": "XBOX",
+    "price": 54.99,
+    "stock": 12,
+    "image": "/public/images/forza.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Zelda: Breath of the Wild",
+    "description": "Aventura épica en mundo abierto.",
+    "category": "Nintendo",
+    "price": 59.99,
+    "stock": 7,
+    "image": "/public/images/zelda.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Mario Kart 8 Deluxe",
+    "description": "Carreras multijugador para toda la familia.",
+    "category": "Nintendo",
+    "price": 49.99,
+    "stock": 10,
+    "image": "/public/images/mariokart.jpg"
+  }
+]
